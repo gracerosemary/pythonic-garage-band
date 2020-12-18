@@ -22,6 +22,6 @@ Make use of a Musician base class to handle common functionality which particula
 Make sure all provided unit tests pass (Band tests and Musician Subclass tests).
 
 ## Change Log
-12.16.2020 - Lab Prep
-12.17.2020 - Lab Complete
-12.18.2020 - Code review, ReadMe Updated, and Submission
+12.16.2020 - Lab Prep  
+12.17.2020 - Lab Complete  
+12.18.2020 - Code review, ReadMe Updated, and Submission  
