@@ -1,7 +1,7 @@
 # Garage Band with OOP
 
 **Author**: Grace Choi
-**Version**: 1.0.0 
+**Version**: 1.0.3
 
 ## Overview
 Creating a Garage Band with Object Oriented Programming.
@@ -23,4 +23,5 @@ Make sure all provided unit tests pass (Band tests and Musician Subclass tests).
 
 ## Change Log
 12.16.2020 - Lab Prep
-12.17.2020 - Lab
+12.17.2020 - Lab Complete
+12.18.2020 - Code review, ReadMe Updated, and Submission
